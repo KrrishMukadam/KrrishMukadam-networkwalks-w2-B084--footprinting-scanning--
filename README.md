@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Pentester Name** | Krrish Pravin Mukamad |
+| **Pentester Name** | Krrish Pravin Mukadam |
 | **Program / Batch** | B084 - Networkwalks |
 | **Date** | 10 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools) <br> W2-PM5 (Network Scanning) |
