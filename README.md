@@ -364,7 +364,7 @@ The following screenshots provide evidence of the practical activities performed
 
 # 9. Author
 
-**Krrish Pravin Mukamad**
+**Krrish Pravin Mukadam**
 
 Batch: B084 - Networkwalks
 
