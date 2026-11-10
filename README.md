@@ -354,11 +354,11 @@ The following screenshots provide evidence of the practical activities performed
 
 ### Evidence 6 – Nmap Network Scan
 
-![Nmap Scan](screenshots/nmap.png)
+![Nmap Scan](screenshots/Zenmap.png)
 
 ### Evidence 7 – Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](screenshots/Zenmap network topology.png)
 
 ---
 
