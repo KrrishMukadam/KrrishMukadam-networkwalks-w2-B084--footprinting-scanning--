@@ -358,7 +358,7 @@ The following screenshots provide evidence of the practical activities performed
 
 ### Evidence 7 – Network Topology
 
-![Network Topology](screenshots/Zenmapnetworktopology.png)
+![Network Topology](screenshots/topology.png)
 
 ---
 
