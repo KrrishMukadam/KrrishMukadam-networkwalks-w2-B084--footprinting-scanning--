@@ -14,7 +14,7 @@
 | **Date** | 10 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools) <br> W2-PM5 (Network Scanning) |
 | **Client / Target** | 1. Networkwalks (public information reconnaissance) <br> 2. My own local virtual network |
-| **Permission / Scope** | Public information gathering and scanning of my own virtual network |
+| **Permission / Scope** |Yes |
 | **Phases covered** | Phase 1: Reconnaissance and Footprinting <br> Phase 2: Scanning and Network Discovery |
 
 ---
