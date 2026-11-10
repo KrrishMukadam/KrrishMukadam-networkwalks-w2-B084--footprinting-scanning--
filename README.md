@@ -12,10 +12,10 @@
 | **Pentester Name** | Krrish Pravin Mukadam |
 | **Program / Batch** | B084 - Networkwalks |
 | **Date** | 10 November 2026 |
-| **Modules completed** | W2-PM1 (Multiple Kali Tools) <br> W2-PM5 (Network Scanning) |
-| **Client / Target** | 1. Networkwalks (public information reconnaissance) <br> 2. My own local virtual network |
-| **Permission / Scope** |Yes |
-| **Phases covered** | Phase 1: Reconnaissance and Footprinting <br> Phase 2: Scanning and Network Discovery |
+| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
+| **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
+| **Permission secured from client?** | Yes |
+| **Phases covered** | **Phase 1:** Reconnaissance & Footprinting<br>**Phase 2:** Scanning & Network Discovery<br>**Phase 3-5:** In Progress |
 
 ---
 
